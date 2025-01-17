@@ -18,25 +18,27 @@
 
 ################################
 
-numOne = 100
-numTwo = 5
-operator = "9"
+#numOne = 100
+#numTwo = 5
+#operator = "9"
 
-if operator == "+":
-    result = (numOne + numTwo)
-elif operator == "-":
-    result = (numOne - numTwo)
-elif operator == "*":
-    result = (numOne * numTwo)
-elif operator == "/":
-    result = (numOne / numTwo)
-else:
-    result = ("Invalid operator") 
+#if operator == "+":
+   # result = (numOne + numTwo)
+#elif operator == "-":
+   # result = (numOne - numTwo)
+#elif operator == "*":
+    #result = (numOne * numTwo)
+#elif operator == "/":
+    #result = (numOne / numTwo)
+#else:
+    #result = ("Invalid operator") 
 
-print("Result =", result)
+#print("Result =", result)
 
-
-
+ta = 10
+ttaa = 20
+ta += ttaa
+print(ta)
 
 
 
