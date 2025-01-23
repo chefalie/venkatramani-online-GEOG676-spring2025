@@ -42,5 +42,3 @@ for line in lines:
         print("Area of Triangle is", tri.calculateArea())
     else:
         pass
-
-#Screenshot of output
